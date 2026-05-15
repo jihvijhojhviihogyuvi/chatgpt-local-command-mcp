@@ -27,7 +27,7 @@ This server exposes `/mcp` over HTTP. It intentionally has no command allowlist 
 ## Setup
 
 ```powershell
-cd C:\Users\james\OneDrive\Documents\Playground\chatgpt-local-command-mcp
+cd chatgpt-local-command-mcp
 copy .env.example .env
 ```
 
